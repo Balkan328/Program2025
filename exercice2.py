@@ -1,7 +1,7 @@
 import time
 
 my_global = "ma_variable_globale"
-
+#whaaaazszaaaaaaaaaaaa
 def my_arg(argument):
     ma_variable_locale = "ma_variable_locale"
 
